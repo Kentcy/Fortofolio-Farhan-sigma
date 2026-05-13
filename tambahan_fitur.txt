@@ -1,1 +1,0 @@
-pengen dibuat kayak website blog alwijo, tapi sedikit perubahan, mau buat ui nya dulu, habis itu develop dan deploy kesini pake bahasa pemograman html, css, js, simple front end for my fortofolio.
